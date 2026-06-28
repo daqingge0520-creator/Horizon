@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Horizon Summary: 2026-06-28 (ZH)"
+title: "Horizon Summary: 2026-06-28 (EN)"
 date: 2026-06-28
-lang: zh
+lang: en
 ---
 
-> 从 20 条内容中筛选出 2 条重要资讯。
+> From 20 items, 2 important content pieces were selected
 
 ---
 
@@ -19,9 +19,9 @@ lang: zh
 
 OpenRA is a highly praised open-source project that successfully re-implements and modernizes classic real-time strategy games with improved balance and features, fostering a vibrant community and discussion around game preservation.
 
-hackernews · tosh · 6月27日 12:10 · [社区讨论](https://news.ycombinator.com/item?id=48697560)
+hackernews · tosh · Jun 27, 12:10 · [Discussion](https://news.ycombinator.com/item?id=48697560)
 
-**标签**: `#Open Source`, `#Game Development`, `#Real-Time Strategy (RTS)`, `#Game Preservation`, `#Community Project`
+**Tags**: `#Open Source`, `#Game Development`, `#Real-Time Strategy (RTS)`, `#Game Preservation`, `#Community Project`
 
 ---
 
@@ -30,8 +30,8 @@ hackernews · tosh · 6月27日 12:10 · [社区讨论](https://news.ycombinator
 
 An anonymous GitHub account claimed to mass-drop undisclosed 0-days, but community analysis largely found the vulnerabilities to be overstated, not true 0-days, or already known/fixed.
 
-hackernews · binyu · 6月27日 14:31 · [社区讨论](https://news.ycombinator.com/item?id=48698617)
+hackernews · binyu · Jun 27, 14:31 · [Discussion](https://news.ycombinator.com/item?id=48698617)
 
-**标签**: `#Cybersecurity`, `#Vulnerability Research`, `#Exploit Development`, `#Community Vetting`, `#Information Security`
+**Tags**: `#Cybersecurity`, `#Vulnerability Research`, `#Exploit Development`, `#Community Vetting`, `#Information Security`
 
 ---
